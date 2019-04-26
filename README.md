@@ -1,4 +1,5 @@
 # Progressive-enhancement
+
 excersise with Progressive enhancement
 
 Exercices :
@@ -10,4 +11,3 @@ Exercices :
     Is there a part that could be considered as a header? If so, group it in a header tag.
     And a footer? If so, group this content together in a footer tag
     Put all instances of the words "Maybe" in a em or strong tag.
-
