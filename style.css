@@ -1,0 +1,19 @@
+.chinese-farmer table {
+    background-color: black;
+    width: 100%;
+}
+
+.chinese-farmer th, .chinese-farmer td {
+    background-color: white;
+}
+
+.chinese-farmer h1 {
+    font-family: Haettenschweiler;
+    text-transform: uppercase;
+    font-size: 45px;
+}
+
+.chinese-farmer h2 {
+    font-family: Impact;
+    font-size: 35px;
+}
