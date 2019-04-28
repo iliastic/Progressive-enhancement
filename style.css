@@ -1,19 +1,41 @@
-.chinese-farmer table {
-    background-color: black;
-    width: 100%;
+body { 
+    background: url(https://theunitycodex.files.wordpress.com/2015/04/good-luckbad-luckwho-knows.png?w=442&h=373); 
+    background-size: cover;
+    background-attachment: fixed;
+    align-self: center
 }
 
-.chinese-farmer th, .chinese-farmer td {
-    background-color: white;
+.content {
+    background:wheat;
+    width: 50%
+    padding: 40px;
+    margin: 100px auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
-.chinese-farmer h1 {
-    font-family: Haettenschweiler;
-    text-transform: uppercase;
-    font-size: 45px;
+h1 {
+    background-color: brown;
+    align
+}
+h2 {
+    
 }
 
-.chinese-farmer h2 {
-    font-family: Impact;
-    font-size: 35px;
+p {
+    font-size: 25px;
+    color: black;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+    
+tfoot {
+    column-span: all;
+}
+
+.voet {
+    color: black;
 }
