@@ -1,4 +1,4 @@
-Link to excersise: https://iliastic.github.io/Progressive-enhancement/.
+Link to excersise: https://iliastic.github.io/Progressive-enhancement/
 
 # Progressive-enhancement
 
